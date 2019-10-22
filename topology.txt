@@ -1,0 +1,19 @@
+Note: This is NOT a final version of the topology. 
+
+[ Console Box ] 
+
+pfsense                 10.0.1.1    
+Windows Server          10.0.1.2    DNS/AD
+Windows 10              10.0.1.3    HTTP
+Cent OS                 10.0.1.4    FTP/SSH
+Windows XP              10.0.1.5    ICMP/SMB
+Elementary-OS           10.0.1.6    SMTP/SSH
+Ubuntu 17.04            10.0.1.7    SSH
+Windows 10              10.0.1.8    ?
+
+
+[ Cloud Box ]
+
+Ubuntu ?                10.0.1.60   HTTP/SSH (ssh not scored) 
+Windows XP              10.0.1.55   ICMP/SMB 
+
